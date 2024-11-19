@@ -27,7 +27,7 @@ pip install -r requirements.txt
 # Download
  # https://drive.google.com/file/d/1JRO1-ObC6UDAZnSBWwHD42KDBrK-xLba/view?usp=sharing
 
-# Contact via Telegram: @tringuyenjan12 to receive 10 free proxies.
+# Contact via Telegram: [@tringuyenjan12](https://t.me/tringuyenjan12) to receive 10 free proxies.
 
 # Note: Not 100% of the proxies will work with NodePay. Typically, out of 10 proxies that work with Grass, only 3-8 will work with NodePay. Additionally, each NodePay account can accept a maximum of 8 proxies from the tool.
 
