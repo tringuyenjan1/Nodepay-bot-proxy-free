@@ -25,7 +25,7 @@ After adding, run the file Nodepay.exe.
 pip install -r requirements.txt
 ```
 # Download
- # https://uploady.io/bzmqxn5o4k78
+ # https://drive.google.com/file/d/1nqUN783vYZPYSSY9B2OUwyjwHJcE0Wh_/view?usp=sharing
 
 # Contact via Telegram: [@tringuyenjan12](https://t.me/tringuyenjan12) to receive 10 free proxies.
 
