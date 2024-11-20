@@ -9,7 +9,7 @@ Data
 ![image](https://github.com/user-attachments/assets/38caa0e6-b540-4412-96d2-8fa7620203a9)
 
 
-Copy the data into the file named data.txt.
+Copy the data into the file named token.txt.
 
 Add the proxy to the file proxy.txt in the format http://user:pass@host:port. It also supports the format http://host:port.
 
