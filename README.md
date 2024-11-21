@@ -1,5 +1,7 @@
 # Nodepay-bot-proxy-free
 There's nothing here at all.
+# # # A better version is now available. You can refer to it here.
+[https://github.com/tringuyenjan1/nodepay-bot-Multi-proxy](https://github.com/tringuyenjan1/nodepay-bot-Multi-proxy)
 
 
 # Grass-v2-auto-bot# Tringuyenjan
